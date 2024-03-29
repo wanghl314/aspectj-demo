@@ -9,12 +9,12 @@
 
     <properties>
         <!-- org/aspectj/aspectjweaver、org/aspectj/aspectjrt -->
-        <aspectj.version>1.9.21.1</aspectj.version>
+        <aspectj.version>1.9.22</aspectj.version>
         <!-- org/codehaus/mojo/aspectj-maven-plugin -->
         <aspectj-maven-plugin.version>1.15.0</aspectj-maven-plugin.version>
         <java.version>1.8</java.version>
         <!-- org/apache/maven/plugins/maven-compiler-plugin -->
-        <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
         <!-- org/apache/maven/plugins/maven-javadoc-plugin -->
         <maven-javadoc-plugin.version>3.6.3</maven-javadoc-plugin.version>
         <!-- org/apache/maven/plugins/maven-source-plugin -->
